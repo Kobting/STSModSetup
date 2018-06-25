@@ -14,4 +14,5 @@ ExampleMod is at. Right next to the libs folder.
 ---
 ### Helpful Resources
 https://github.com/daviscook477/BaseMod/wiki
+
 https://github.com/kiooeht/ModTheSpire/wiki
