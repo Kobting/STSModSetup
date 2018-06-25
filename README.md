@@ -1,4 +1,4 @@
-# MTSSetup
+# STSModSetup
 A base structure for the creation of mods for Slay the Spire based off of the wiki from <a href="https://github.com/daviscook477/BaseMod/wiki/Getting-Started-(For-Modders)">BaseMod</a>
 
 This would be the base directory where all your mods would go.
